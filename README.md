@@ -1,4 +1,4 @@
-# travel_bucket_list_tracker
+# travel_bucket_list_tracker using set
 
 bucket_list = {"Japan", "Norway", "Brazil", "Canada"}
 visited = {"India", "Brazil"}
